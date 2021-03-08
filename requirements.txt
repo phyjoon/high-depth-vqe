@@ -1,0 +1,7 @@
+jax==0.1.75
+jaxlib==0.1.52
+qutip==4.5.2
+matplotlib
+numpy
+wandb
+tqdm
